@@ -1,0 +1,42 @@
+.title-here {
+	font-weight: bold;
+	text-align: center;
+	font-size: 20px
+}
+.short-code {
+	-moz-appearance: textfield-multiline;
+	-webkit-appearance: textarea;
+	border: 1px solid gray;
+	font: medium -moz-fixed;
+	font: -webkit-small-control;
+	height: 28px;
+	line-height: 28px;
+	border-radius: 05px;
+	overflow: auto;
+	padding: 2px;
+	/*resize: both;*/
+	width: 200px;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.plugin-heading h2 { color: #2DB742; font-family: Arial; font-size: 30px; font-weight: bold; border-bottom: 1px solid #2DB742; width: 50%; margin-left: 40px;}
+
+.icon { float: left; padding: 5px 0; vertical-align: middle;}
+
+.share-icon {margin: 1em 0 0;}
+.share-icon > strong { font-size: 16px; font-family: arial; margin-bottom: 02px; display:block;}
+.share-icon label { margin-right: 10%;}
+
+.icon-preview { float:left; margin: 0px 9% 0 0; }
+.clear { clear:both; content:""; display:block;}
+
+.share-icon > #customtitleshare { margin-left: -100px;}
+.whtsavebut { background: #333; color: #fff; padding: 05px; border: 0; border-radius: 05px; width: 200px; height: 30px; cursor:pointer}
+.whtsavebut:hover {background:#696969;}
+/*.whtsavebut:hover {background:#096;}*/
+
+.title-here {font-family: Arial; font-size: 24px; font-weight: bold;}
+.short-code { margin: 13px auto 0;}
+.short-code-description { text-align:center; margin: 10px 0;}
+
